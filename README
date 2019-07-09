@@ -1,0 +1,8 @@
+#E.R Master
+
+###Description
+a program to manage a patient file in an emergency room.
+transforming a monolithic system into a microservices based system.
+the services are written in Java, C#.
+DB - SQLite3.
+the script to run the services is written in python.
